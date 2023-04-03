@@ -1,5 +1,5 @@
-# FMKC-wiki-poc
-Trying out a Github Pages based wiki/blog to see how it works
+# FMKC-Blog
+Trying out a Github Pages based blog with a community run wiki at the side to see how it could work
 
 This is the planned structure: 
 
